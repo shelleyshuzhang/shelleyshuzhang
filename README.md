@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shelleyshuzhang
 - 👀 I’m interested in cycling, guitar and reading
-- 🌱 I’m currently learning django and c++
+- 🌱 I’m currently learning parallel and distributed programming
 - 💞️ I’m looking to collaborate on backend development projects
 - 📫 Here is my email address: zhang.shu4@northeastern.edu
 
